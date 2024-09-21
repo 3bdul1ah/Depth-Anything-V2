@@ -8,7 +8,7 @@ import tempfile
 from gradio_imageslider import ImageSlider
 
 from depth_anything_v2.dpt import DepthAnythingV2
-
+ 
 css = """
 #img-display-container {
     max-height: 100vh;
